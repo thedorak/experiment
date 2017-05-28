@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+<meta charset="utf-8">
+<title>Cells That Span Many Columns</title>
+<body>
+<table style="width:100%">
+<tr>
+<th>Name</th>
+<th colspan="2">Telephone</th>
+</tr>
+<tr>
+<td> Bill Gates</td>
+<td>55577854</td>
+<td>55587855</td>
+</tr>
+</table>
